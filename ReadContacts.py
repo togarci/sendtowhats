@@ -14,10 +14,7 @@ class ReadingCSV(object):
                 
         return list_number
             
-teste = ReadingCSV()
-list = teste.getNumbersPhones()
-for x in list:
-    print(x)
+
             
 
 
