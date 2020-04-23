@@ -2,7 +2,7 @@
 Sent_To_WhatsApp
 
 
-Scritp de raspagem de Dados com Python utilizando a biblioteca Selenium e Pandas.
+Scritp Python utilizando a biblioteca Selenium e Pandas.
 
 
 Este script foi criado para enviar mensagens selecionadas pelo usuário e encaminhar para os contatos importas a partir de um CSV seguindo uma estrutura do modelo de importado Google Contatos.
